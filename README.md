@@ -3,7 +3,7 @@
 - 📜 Skills that I currently possess are including but not limited to: Java, HTML/CSS, Javascript, Python & MySQL
 - 📕 I'm looking forward to learn React js, Docker & Kubernetes in near future
 - 🍕 Is my favorite food and ☕ is my favorite drink 
-- 📫 Connect with me on https://www.linkedin.com/in/faiz790/
+- 📫 Connect with me on [Linkedln](https://www.linkedin.com/in/faiz790/)
 
 <!---
 Faizaan790/Faizaan790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
