@@ -2,9 +2,9 @@
 <h3 align="center">Software Develepor</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+- 💻 I’m a Software Developer having a passion to code in **Java, JavaScript, Python & Related Technologies/Frameworks**
 - 🌱 I’m currently learning **React.js, DevOps**
 - 💬 Ask me about **Java 21 Updates**
-- 💻 I’m a Software Developer having a passion for coding in **Java, JavaScript, Python & Related Technologies/Frameworks**
 - 🍕 is my favorite food & ☕ is my favorite drink. So, let's drink ☕ and **Code**
 
 <h3 align="left">Connect with me:</h3>
